@@ -1,0 +1,3 @@
+clk420ma_receiver.c:11:6:init_clk420mA	1
+clk420ma_receiver.c:17:7:read_clk420mA	2
+clk420ma_receiver.c:44:7:read_clk420mA_voltage	2
